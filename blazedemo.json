@@ -1,0 +1,15 @@
+{
+"Website":"https://blazedemo.com/",
+"DepCity":"Boston",
+"DestCity":"New York",    
+"name":"Islam",
+"adress":"14 Abas Radwan str",
+"city":"Met Ghamr",
+"state":"Dakahlya",
+"zipCode":"1234",
+"creditCardnumber":"123409834354",
+"month":"11",
+"year":"2023",
+"nameoncard":"Islam Ibrhaim",
+"confirmationText":"Thank you for your purchase today!"
+}
